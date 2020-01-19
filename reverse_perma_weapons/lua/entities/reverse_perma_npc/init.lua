@@ -1,3 +1,8 @@
+-[[
+Commissioned By: Reverse
+Produced By: Tasid
+--]]
+
 AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("shared.lua")
 
