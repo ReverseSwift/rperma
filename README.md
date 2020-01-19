@@ -18,11 +18,17 @@
 <ul>
 <li>Download the files from Github</li>
 <li>Extract to your desktop.</li>
-<li>Drag the reverse_perma_Shop into your garrysmod/addons directory.</li>
+<li>Drag the reverse_perma_weapons into your garrysmod/addons directory.</li>
 <li>Configure your MySQL details in sv_rperma.lua</li>
 <li>Restart the server and load it up.</li>
 <li>Spawn in the npc in Entites named "Permanent Weapon Store"</li>
 <li>Bang! You're done.</li>
 </ul>
+<h3>SwiftNetworks.net</h3>
+<p>I'm the owner of a Garry's Mod server that is releasing soon, it's called SwiftNetworks. We're a StarwarsRP community that will be releasing on the 25th of January 2020. We have a lot of custom content that will keep you playing and wanting to keep you on. We have weekly updates and currently have a custom forum, store and website theme. Check us out here:</p>
+<p>Discord:&nbsp;<a href="https://discord.gg/TVvzgeX">https://discord.gg/TVvzgeX</a></p>
+<p>Website: <a href="https://swiftnetworks.net">https://swiftnetworks.net</a></p>
+<p>Store: <a href="https://swiftnetworks.net/store">https://swiftnetworks.net/store</a></p>
+<p>Forums: https://swiftnetworks.net/forums</p>
 <h3>Credits</h3>
 <p>Reverse's Permanent Weapon Store was commissioned by Reverse and produced by tasid. They must be accounted for credit in all files. Thank you for reading.</p>
