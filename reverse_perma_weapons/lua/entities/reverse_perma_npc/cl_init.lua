@@ -11,7 +11,7 @@ surface.CreateFont("XeninUI.NPC", {
   font = "Montserrat"
 })
 
-local icon = Material("battlepass/challenges/weapons.png", "smooth")
+local icon = Material("upload-your-own", "smooth")
 
 function ENT:Draw()
   self:DrawModel()
