@@ -1,3 +1,8 @@
+-[[
+Commissioned By: Reverse
+Produced By: Tasid
+--]]
+
 rperma.pages = {
 	{
 		name = "UNOWNED WEAPONS",
