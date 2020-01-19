@@ -1,3 +1,8 @@
+-[[
+Commissioned By: Reverse
+Produced By: Tasid
+--]]
+
 rperma = rperma or {}
 
 local main_folder = "reverseperma"
