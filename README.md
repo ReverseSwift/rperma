@@ -1,2 +1,1 @@
-# rperma
-GMOD Permanent Weapon Store
+read description
