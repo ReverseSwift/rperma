@@ -1,3 +1,8 @@
+-[[
+Commissioned By: Reverse
+Produced By: Tasid
+--]]
+
 util.AddNetworkString("rperma_openmenu")
 util.AddNetworkString("rperma_purchase")
 util.AddNetworkString("rperma_equip")
