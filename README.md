@@ -17,6 +17,7 @@
 <p>To install Reverse's Permanent Weapon Shop please follow these instructions:</p>
 <ul>
 <li>Download the files from Github</li>
+<liAdd XeninUI to your workshop collection</li>
 <li>Extract to your desktop.</li>
 <li>Drag the reverse_perma_weapons into your garrysmod/addons directory.</li>
 <li>Configure your MySQL details in sv_rperma.lua</li>
@@ -31,4 +32,8 @@
 <p>Store: <a href="https://swiftnetworks.net/store">https://swiftnetworks.net/store</a></p>
 <p>Forums: https://swiftnetworks.net/forums</p>
 <h3>Credits</h3>
-<p>Reverse's Permanent Weapon Store was commissioned by Reverse and produced by tasid. They must be accounted for credit in all files. Thank you for reading.</p>
+<p>Reverse's Permanent Weapon Store was commissioned by Reverse and produced by tasid. They must be accounted for credit in all files. Some UI elements are using XeninUI. Credit to sleeppyy. Thank you for reading.</p>
+<p>Previews:&nbsp;</p>
+<p><img src="https://swiftnetworks.net/images/t2jnT.png" /></p>
+<p><img src="https://swiftnetworks.net/images/42UV6.png" /></p>
+<p><img src="https://swiftnetworks.net/images/BK5Gw.png" /></p>
