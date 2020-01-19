@@ -14,30 +14,15 @@
 <h3>Support</h3>
 <p>There is 0 support for this addon, it was commissioned for a Garry's Mod server and will not be supported. I'm only releasing this as I have no use for it anymore at all. You must credit both Reverse and Tasid inside of the files, otherwise it can result in a DMCA. I may offer some additional support but my knowledge is limited. If you'd like to contact me please email me: <a href="mailto:reverse@swiftnetworks.net ">reverse@swiftnetworks.net </a>or join my community discord:&nbsp;<a href="https://discord.gg/ambwxr">https://discord.gg/ambwxr</a>.</p>
 <h3>Configuration</h3>
-<p>Configurations are done through config.lua</p>
-<div>
-<div>rperma.config&nbsp;=&nbsp;{}</div>
-<br />
-<div>rperma.config.durabilityloss&nbsp;=&nbsp;1</div>
-<br />
-<div>rperma.config.previewstyle&nbsp;=&nbsp;1</div>
-<br />
-<div>rperma.config.customcheck&nbsp;=&nbsp;function(ply)</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;true&nbsp;--&nbsp;change&nbsp;true&nbsp;to&nbsp;anything&nbsp;you&nbsp;want,&nbsp;checked&nbsp;on&nbsp;PlayerSpawn,&nbsp;for&nbsp;custom&nbsp;things&nbsp;like&nbsp;ply:InEvent()</div>
-<div>end</div>
-<br />
-<div>rperma.config.categories&nbsp;=&nbsp;{</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;{"Knives",&nbsp;Color(0,&nbsp;195,&nbsp;165,&nbsp;10)},</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;{"Guns",&nbsp;Color(0,&nbsp;165,&nbsp;240,&nbsp;10)},</div>
-<div>}</div>
-<br />
-<div>rperma.config.weapons&nbsp;=&nbsp;{</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;["weapon_ak472"]&nbsp;=&nbsp;{</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;price&nbsp;=&nbsp;250000,</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;category&nbsp;=&nbsp;"Knives",</div>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;},</div>
-<div>&nbsp;</div>
-<div>}</div>
-</div>
+<p>To install Reverse's Permanent Weapon Shop please follow these instructions:</p>
+<ul>
+<li>Download the files from Github</li>
+<li>Extract to your desktop.</li>
+<li>Drag the reverse_perma_Shop into your garrysmod/addons directory.</li>
+<li>Configure your MySQL details in sv_rperma.lua</li>
+<li>Restart the server and load it up.</li>
+<li>Spawn in the npc in Entites named "Permanent Weapon Store"</li>
+<li>Bang! You're done.</li>
+</ul>
 <h3>Credits</h3>
 <p>Reverse's Permanent Weapon Store was commissioned by Reverse and produced by tasid. They must be accounted for credit in all files. Thank you for reading.</p>
