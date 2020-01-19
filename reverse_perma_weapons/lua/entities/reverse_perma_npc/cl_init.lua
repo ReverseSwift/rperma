@@ -1,3 +1,9 @@
+-[[
+Commissioned By: Reverse
+Produced By: Tasid
+--]]
+
+
 include("shared.lua")
 
 surface.CreateFont("XeninUI.NPC", {
